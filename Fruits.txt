@@ -1,2 +1,5 @@
 Apple
 peach
+banana 
+grapes
+orange

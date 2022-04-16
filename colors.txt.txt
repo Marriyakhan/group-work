@@ -2,3 +2,6 @@ pink
 purple
 green
 red
+yello
+light pink
+gray
