@@ -2,4 +2,6 @@ Apple
 peach
 banana 
 grapes
-orange
+orange 
+pineapple
+dates

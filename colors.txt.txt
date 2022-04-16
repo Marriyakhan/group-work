@@ -5,3 +5,5 @@ red
 yello
 light pink
 gray
+light brown
+blue
